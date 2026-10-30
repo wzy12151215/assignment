@@ -34,7 +34,7 @@ for i in range(30):
 print("Question Answering Bot")
 question = input("Ask me something: ")
 if question == "HKU":
-    print("Bot: HKU is a The University of Hong Kong.")
+    print("Bot: HKU is The University of Hong Kong.")
 elif question == "robot":
     print("Bot: A robot is an automated machine .")
 elif question == "jetson":
